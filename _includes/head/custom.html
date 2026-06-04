@@ -14,4 +14,59 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
+<!-- Publication card styles -->
+<style>
+.pub-item {
+  display: flex;
+  gap: 1em;
+  margin-bottom: 1.5em;
+  padding-bottom: 1.5em;
+  border-bottom: 1px solid #eee;
+  align-items: flex-start;
+}
+.pub-thumb {
+  flex: 0 0 180px;
+}
+.pub-thumb img {
+  width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+.pub-info {
+  flex: 1;
+}
+.pub-title {
+  font-weight: bold;
+  font-size: 1.05em;
+  margin-bottom: 0.3em;
+}
+.pub-authors {
+  font-size: 0.95em;
+  margin-bottom: 0.5em;
+}
+.pub-buttons {
+  margin-top: 0.4em;
+}
+.pub-btn {
+  display: inline-block;
+  padding: 2px 10px;
+  margin-right: 6px;
+  font-size: 0.85em;
+  background: #f0f0f0;
+  color: #333 !important;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  text-decoration: none !important;
+}
+.pub-btn:hover {
+  background: #007acc;
+  color: #fff !important;
+  border-color: #007acc;
+}
+@media (max-width: 600px) {
+  .pub-item { flex-direction: column; }
+  .pub-thumb { flex: none; width: 60%; }
+}
+</style>
+
 <!-- end custom head snippets -->

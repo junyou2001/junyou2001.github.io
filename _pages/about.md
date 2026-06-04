@@ -21,7 +21,31 @@ My research focuses primarily on **On-device Machine Learning Systems**, includi
 Publications
 ======
 
-<!-- Content coming soon -->
+<div class="pub-item">
+  <div class="pub-thumb">
+    <img src="/images/papers/Taming.pdf" alt="Taming">
+  </div>
+  <div class="pub-info">
+    <div class="pub-title">[Pre-Print] Taming Asynchronous CPU-GPU Coupling for Frequency-aware Latency Estimation on Mobile Edge</div>
+    <div class="pub-authors">Jiesong Chen, <b>Jun You</b>, Zhidan Liu, Zhenjiang Li</div>
+    <div class="pub-buttons">
+      <a href="https://arxiv.org/abs/2604.15357" class="pub-btn">PDF</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-thumb">
+    <img src="/images/papers/BO_TMC.pdf" alt="BO_TMC">
+  </div>
+  <div class="pub-info">
+    <div class="pub-title">[TMC] Adaptive Bayesian Optimization for Online Bandit Model Partitioning and Resource Allocation in Split Federated Learning</div>
+    <div class="pub-authors"><b>Jun You</b>, Jia Yan, Zhenjiang Li, Liuqing Yang</div>
+    <div class="pub-buttons">
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11437533" class="pub-btn">PDF</a>
+    </div>
+  </div>
+</div>
 
 Honors
 ======
