@@ -172,10 +172,6 @@ Publications
 </style>
 
 
-
-<br>
-
-
 Honors
 ======
 
