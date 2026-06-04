@@ -89,10 +89,9 @@ Publications
     <img src="/images/papers/Taming.png">
   </div>
 
-
   <div class="pub-content">
-    <p><strong>[ICLR 2025] Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality</strong></p>
-    <p><strong>Guanyu Zhou</strong>, Yibo Yan, Xin Zou, Kun Wang, Aiwei Liu, Xuming Hu</p>
+    <p><strong>[Pre-Print] Taming Asynchronous CPU-GPU Coupling for Frequency-aware Latency Estimation on Mobile Edge</strong></p>
+    <p>Jiesong Chen, <strong>Jun You</strong>, Zhidan Liu, Zhenjiang Li</p>
 
 
     <div class="pub-buttons">
@@ -102,33 +101,54 @@ Publications
   </div>
 </div>
 
-
-
-<div class="pub-item">
-  <div class="pub-thumb">
-    <img src="/images/papers/Taming.png" alt="Taming">
-  </div>
-  <div class="pub-info">
-    <div class="pub-title"><span style="color:red">[Pre-Print]</span> Taming Asynchronous CPU-GPU Coupling for Frequency-aware Latency Estimation on Mobile Edge</div>
-    <div class="pub-authors">Jiesong Chen, <b>Jun You</b>, Zhidan Liu, Zhenjiang Li</div>
-    <div class="pub-buttons">
-      <a href="https://arxiv.org/abs/2604.15357" class="pub-btn">PDF</a>
-    </div>
-  </div>
 </div>
 
-<div class="pub-item">
-  <div class="pub-thumb">
-    <img src="/images/papers/BO_TMC.png" alt="BO_TMC">
-  </div>
-  <div class="pub-info">
-    <div class="pub-title"><span style="color:red">[TMC]</span> Adaptive Bayesian Optimization for Online Bandit Model Partitioning and Resource Allocation in Split Federated Learning</div>
-    <div class="pub-authors"><b>Jun You</b>, Jia Yan, Zhenjiang Li, Liuqing Yang</div>
-    <div class="pub-buttons">
-      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11437533" class="pub-btn">PDF</a>
-    </div>
-  </div>
-</div>
+
+
+<style>
+.experience {
+  margin-top: 40px;
+}
+
+
+.exp-item {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  margin-bottom: 28px;
+}
+
+.logo-box {
+  width: 120px;
+  height: 120px;
+  background: #fff;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.06);
+}
+
+.logo-box img {
+  max-width: 80%;
+  max-height: 80%;
+  object-fit: contain;
+}
+
+.exp-content p {
+  margin: 4px 0;
+  font-size: 16px;
+}
+
+.exp-content strong {
+  font-size: 17px;
+}
+</style>
+
+
+
+<br>
+
 
 Honors
 ======
