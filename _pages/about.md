@@ -90,7 +90,8 @@ Publications
   </div>
 
   <div class="pub-content">
-    <p><strong>[Pre-Print] Taming Asynchronous CPU-GPU Coupling for Frequency-aware Latency Estimation on Mobile Edge</strong></p>
+    <p><strong><span style="color:red;">[Pre-Print]</span> Taming Asynchronous CPU-GPU Coupling for Frequency-aware Latency Estimation on Mobile Edge</strong>
+</p>
     <p>Jiesong Chen, <strong>Jun You</strong>, Zhidan Liu, Zhenjiang Li</p>
 
 
@@ -100,6 +101,31 @@ Publications
 
   </div>
 </div>
+
+
+
+
+
+<div class="pub-item">
+  <div class="pub-figure">
+    <img src="/images/papers/BO_TMC.png">
+  </div>
+
+  <div class="pub-content">
+    <p><strong><span style="color:red;">[TMC]</span> Adaptive Bayesian Optimization for Online Bandit Model Partitioning and Resource Allocation in Split Federated Learning</strong></p>
+    <p><strong>Jun You</strong>, Jia Yan, Zhenjiang Li, Liuqing Yang</p>
+
+
+    <div class="pub-buttons">
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11437533"><button>PDF</button></a>
+    </div>
+
+  </div>
+</div>
+
+
+
+
 
 </div>
 
