@@ -179,9 +179,16 @@ Publications
 Honors
 ======
 
-<!-- Content coming soon -->
+* Postgraduate Scholarship, CityU, Hong Kong, 2025-2029
+* National Scholarship, Ministry of Education, China, 2023
+* National Scholarship, Ministry of Education, China, 2022
+* The First Prize Scholarship, Northwestern Polytechnical University, China, 2021
+
+
 
 Services
 ======
 
-<!-- Content coming soon -->
+### Management
+
+* Webmaster, IEEE MSN 2026
