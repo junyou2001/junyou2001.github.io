@@ -10,7 +10,7 @@ redirect_from:
 About Me
 ======
 
-I am currently a fourth-year Ph.D. student at the Department of Computer Science, `City University of Hong Kong`(https://www.cityu.edu.hk/), under the guidance of [Prof. Zhenjiang Li](https://www.cs.cityu.edu.hk/~zhenjili/).
+I am currently a fourth-year Ph.D. student at the Department of Computer Science, **[City University of Hong Kong](https://www.cityu.edu.hk/)**, under the guidance of [Prof. Zhenjiang Li](https://www.cs.cityu.edu.hk/~zhenjili/).
 
 Publications
 ======
