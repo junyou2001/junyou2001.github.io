@@ -21,6 +21,89 @@ My research focuses primarily on **On-device Machine Learning Systems**, includi
 Publications
 ======
 
+<style>
+
+.publications{
+  margin-top:30px;
+}
+
+.pub-item{
+  display:flex;
+  align-items:center;
+  gap:28px;
+  margin-bottom:32px;
+}
+
+.pub-figure{
+  width:190px;
+  height:130px;
+  border-radius:14px;
+  overflow:hidden;
+  background:#fff;
+  box-shadow:0 4px 14px rgba(0,0,0,0.08);
+  flex-shrink:0;
+}
+
+.pub-figure img{
+  width:100%;
+  height:100%;
+  object-fit:contain;
+}
+
+.pub-content p{
+  margin:4px 0;
+  font-size:16px;
+}
+
+.pub-content strong{
+  font-size:17px;
+}
+
+.pub-buttons{
+  margin-top:6px;
+}
+
+.pub-buttons a{
+  text-decoration:none;
+}
+
+.pub-buttons button{
+  background:#4CAF50;
+  border:none;
+  color:white;
+  padding:6px 14px;
+  font-size:14px;
+  border-radius:6px;
+  cursor:pointer;
+  margin-right:6px;
+}
+
+</style>
+
+<div class="publications">
+
+
+
+<div class="pub-item">
+  <div class="pub-figure">
+    <img src="/images/papers/Taming.png">
+  </div>
+
+
+  <div class="pub-content">
+    <p><strong>[ICLR 2025] Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality</strong></p>
+    <p><strong>Guanyu Zhou</strong>, Yibo Yan, Xin Zou, Kun Wang, Aiwei Liu, Xuming Hu</p>
+
+
+    <div class="pub-buttons">
+      <a href="https://arxiv.org/abs/2604.15357"><button>PDF</button></a>
+    </div>
+
+  </div>
+</div>
+
+
+
 <div class="pub-item">
   <div class="pub-thumb">
     <img src="/images/papers/Taming.png" alt="Taming">
