@@ -197,7 +197,3 @@ Services
 
 
 
-<div style="display: none;">
-  <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=kXTc7LxmfrvFQSudFT3KrBc_YY7upOoYOR6OIzQp5ZY"></script>
-</div>
-
