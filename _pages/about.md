@@ -195,4 +195,4 @@ Services
 
 
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=8MhgTWHJEZzdE82Bb-wBII3RuujWQtydOxS12ZLFdM8&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=kXTc7LxmfrvFQSudFT3KrBc_YY7upOoYOR6OIzQp5ZY"></script>
