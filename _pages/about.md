@@ -78,9 +78,33 @@ Publications
   margin-right:6px;
 }
 
+.pub-buttons button[disabled]{
+  background:#9ca3af;
+  cursor:not-allowed;
+}
+
 </style>
 
 <div class="publications">
+
+
+
+<div class="pub-item">
+  <div class="pub-figure">
+    <img src="/images/papers/ExoMem.png">
+  </div>
+
+  <div class="pub-content">
+    <p><strong><span style="color:red;">[MobiCom26]</span> ExoMem: OS-Governed Memory for Local Large-LLM Inference on Mobile Edge Devices</strong></p>
+    <p><strong>Jun You</strong>, Kun Wang, Jiesong Chen, Zhidan Liu, Zhenjiang Li</p>
+
+
+    <div class="pub-buttons">
+      <button type="button" disabled>PDF</button>
+    </div>
+
+  </div>
+</div>
 
 
 
