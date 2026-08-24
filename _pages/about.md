@@ -59,6 +59,11 @@ Publications
   font-size:17px;
 }
 
+.ccf-rank{
+  color:red;
+  font-style:italic;
+}
+
 .pub-buttons{
   margin-top:6px;
 }
@@ -95,7 +100,7 @@ Publications
   </div>
 
   <div class="pub-content">
-    <p><strong><span style="color:red;">[MobiCom26]</span> ExoMem: OS-Governed Memory for Local Large-LLM Inference on Mobile Edge Devices</strong></p>
+    <p><strong><span style="color:red;">[MobiCom26]</span> ExoMem: OS-Governed Memory for Local Large-LLM Inference on Mobile Edge Devices</strong> <span class="ccf-rank">(CCF-A)</span></p>
     <p><strong>Jun You</strong>, Kun Wang, Jiesong Chen, Zhidan Liu, Zhenjiang Li</p>
 
 
@@ -136,7 +141,7 @@ Publications
   </div>
 
   <div class="pub-content">
-    <p><strong><span style="color:red;">[TMC]</span> Adaptive Bayesian Optimization for Online Bandit Model Partitioning and Resource Allocation in Split Federated Learning</strong></p>
+    <p><strong><span style="color:red;">[TMC]</span> Adaptive Bayesian Optimization for Online Bandit Model Partitioning and Resource Allocation in Split Federated Learning</strong> <span class="ccf-rank">(CCF-A)</span></p>
     <p><strong>Jun You</strong>, Jia Yan, Zhenjiang Li, Liuqing Yang</p>
 
 
