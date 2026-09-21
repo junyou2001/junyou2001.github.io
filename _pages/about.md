@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Jun You CityU - Homepage"
 author_profile: true
 redirect_from:
   - /about/
