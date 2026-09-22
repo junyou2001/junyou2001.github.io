@@ -10,7 +10,7 @@ redirect_from:
 About Me
 ======
 
-I am currently a first-year Ph.D. student at the Department of Computer Science, **City University of Hong Kong**, under the guidance of [Prof. Zhenjiang Li](https://www.cs.cityu.edu.hk/~zhenjili/). Prior to this, I did a research internship at **HKUSTgz** supervised by [Prof. Jia Yan](https://jasonjiayan.github.io/). I received the B.E. degree in Software Engineering, from **Northwestern Polytechnical University**, China, in 2024.
+I am currently a second-year Ph.D. student at the Department of Computer Science, **City University of Hong Kong**, under the guidance of [Prof. Zhenjiang Li](https://www.cs.cityu.edu.hk/~zhenjili/). Prior to this, I did a research internship at **HKUSTgz** supervised by [Prof. Jia Yan](https://jasonjiayan.github.io/). I received the B.E. degree in Software Engineering, from **Northwestern Polytechnical University**, China, in 2024.
 
 My research focuses primarily on **On-device Machine Learning Systems**, including:
 
@@ -105,7 +105,7 @@ Publications
 
 
     <div class="pub-buttons">
-      <button type="button" disabled>PDF</button>
+      <a href="https://liuzhidan.github.io/files/2026-MobiCom-ExoMem.pdf"><button>PDF</button></a>
     </div>
 
   </div>
