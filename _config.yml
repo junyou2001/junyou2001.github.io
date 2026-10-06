@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Jun You CityU - Homepage"
-title_separator          : "-"
+title                    : "Jun You | City University of Hong Kong (CityU)"
+title_separator          : "|"
 name                     : &name "Jun You"
-description              : &description "Jun You's academic homepage"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Jun You is a Ph.D. student in Computer Science at City University of Hong Kong (CityU), researching on-device machine learning systems and mobile LLM inference."
 url                      : https://junyou2001.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -29,6 +29,7 @@ author:
   bio              : "To be alive is to succeed"
   location         : "Hong Kong"
   employer         : "City University of Hong Kong"
+  job_title        : "Ph.D. Student in Computer Science"
   uri              : # URL
   email            : "junyou3-c@my.cityu.edu.hk" 
 
@@ -192,6 +193,37 @@ exclude:
   - README
   - tmp
   - vendor
+  # Academic Pages examples: keep their source, but do not publish them.
+  - _portfolio
+  - _posts
+  - _publications
+  - _talks
+  - _teaching
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/cv-json.md
+  - _pages/cv.md
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/publications.html
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/talks.html
+  - _pages/teaching.html
+  - _pages/terms.md
+  - _pages/year-archive.html
+  - markdown_generator
+  - talkmap
+  - files/bibtex1.bib
+  - files/paper1.pdf
+  - files/paper2.pdf
+  - files/paper3.pdf
+  - files/slides1.pdf
+  - files/slides2.pdf
+  - files/slides3.pdf
 keep_files:
   - .git
   - .svn

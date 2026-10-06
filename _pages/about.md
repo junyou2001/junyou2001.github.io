@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: ""
+title: "Jun You"
+description: "Jun You is a Ph.D. student in Computer Science at City University of Hong Kong (CityU), researching on-device machine learning systems and mobile LLM inference."
 author_profile: true
 redirect_from:
   - /about/
@@ -8,9 +9,9 @@ redirect_from:
 ---
 
 About Me
-======
+------
 
-I am currently a second-year Ph.D. student at the Department of Computer Science, **City University of Hong Kong**, under the guidance of [Prof. Zhenjiang Li](https://www.cs.cityu.edu.hk/~zhenjili/). Prior to this, I did a research internship at **HKUSTgz** supervised by [Prof. Jia Yan](https://jasonjiayan.github.io/). I received the B.E. degree in Software Engineering, from **Northwestern Polytechnical University**, China, in 2024.
+I am **Jun You**, currently a second-year Ph.D. student at the Department of Computer Science, **City University of Hong Kong (CityU)**, under the guidance of [Prof. Zhenjiang Li](https://www.cs.cityu.edu.hk/~zhenjili/). Prior to this, I did a research internship at **HKUSTgz** supervised by [Prof. Jia Yan](https://jasonjiayan.github.io/). I received the B.E. degree in Software Engineering, from **Northwestern Polytechnical University**, China, in 2024.
 
 My research focuses primarily on **On-device Machine Learning Systems**, including:
 
@@ -19,7 +20,7 @@ My research focuses primarily on **On-device Machine Learning Systems**, includi
 * **Optimization** in wireless communications and networking.
 
 Publications
-======
+------
 
 <style>
 
@@ -204,7 +205,7 @@ Publications
 
 
 Honors
-======
+------
 
 * Postgraduate Scholarship, CityU, Hong Kong, 2025-2029
 * National Scholarship, Ministry of Education, China, 2023
@@ -214,7 +215,7 @@ Honors
 
 
 Services
-======
+------
 
 ### Management
 
