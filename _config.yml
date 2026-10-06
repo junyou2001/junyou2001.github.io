@@ -10,6 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Jun You | City University of Hong Kong (CityU)"
+masthead_title           : "Jun You | CityU"
 title_separator          : "|"
 name                     : &name "Jun You"
 description              : &description "Jun You is a Ph.D. student in Computer Science at City University of Hong Kong (CityU), researching on-device machine learning systems and mobile LLM inference."
