@@ -25,6 +25,19 @@ Publications
 
 <style>
 
+/* Keep main sections distinct and service subsections compact. */
+.page__content > h1:not(:first-child) {
+  margin-top: 2rem;
+}
+
+.page__content > h3 {
+  margin: 1rem 0 0.5rem;
+}
+
+.page__content > h3 + ul {
+  margin: 0.5rem 0;
+}
+
 .publications{
   margin-top:30px;
 }
