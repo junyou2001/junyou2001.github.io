@@ -17,8 +17,8 @@ I am **Jun You**, currently a second-year Ph.D. student at the Department of Com
 My research focuses primarily on **On-device Machine Learning Systems**, including:
 
 * System **management** for on-device LLM inference (e.g., memory, operating frequency, etc.).
-* **Hardware-software** co-optimization for on-device LLM inference (e.g., unified memory and mobile NPU).
-* **Optimization** in wireless communications and networking.
+* **Hardware-software** co-design for on-device LLM inference (e.g., unified memory and mobile NPU).
+* **Optimization** in edge AI system.
 
 Publications
 ======
@@ -208,10 +208,17 @@ Publications
 Honors
 ======
 
-* Postgraduate Scholarship, CityU, Hong Kong, 2025-2029
-* National Scholarship, Ministry of Education, China, 2023
-* National Scholarship, Ministry of Education, China, 2022
-* The First Prize Scholarship, Northwestern Polytechnical University, China, 2021
+* Postgraduate Scholarship, CityU, Hong Kong, *2025-2029*
+
+* National Scholarship, Ministry of Education, China, *2023*
+
+* National Scholarship, Ministry of Education, China, *2022*
+
+  
+
+# Invited Talks
+
+* **CCF-Talk (Issue 15), invited by CCF** — “ExoMem: OS-Governed Memory for Local Large-LLM Inference on Mobile Edge Devices”, *2026.11*
 
 
 
@@ -228,3 +235,7 @@ Services
 
 
 
+# Teaching Experience
+
+* Teaching Assistant, Computer Programming (CS2310) and Funds of Internet (CS2204), CityU, *2025-2026*
+* Teaching Assistant, Introduction to Cybersecurity (CS5285), CityU, *2026*
