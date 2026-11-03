@@ -28,6 +28,8 @@ Publications
 /* Keep main sections distinct and service subsections compact. */
 .page__content > h1:not(:first-child) {
   margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--global-border-color);
 }
 
 .page__content > h3 {
@@ -47,6 +49,12 @@ Publications
   align-items:center;
   gap:28px;
   margin-bottom:32px;
+}
+
+.publications > .pub-item:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: 0;
 }
 
 .pub-figure{
